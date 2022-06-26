@@ -1,2 +1,9 @@
 # Follow-Some-Papers
-reading good paper
+
+## NER(Named Entity Recognition)
+
+
+## RE(Relationship Extraction)
+
+
+## EE(Event Extraction)
