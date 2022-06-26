@@ -4,6 +4,7 @@
  
 ## NER(Named Entity Recognition)
 [EMNLP2021] Fu J, Huang X, Liu P. SpanNER: Named entity re-/recognition as span prediction[J]. arXiv preprint arXiv:2106.00641, 2021.
+
 [EMNLP2021] Yan Z, Zhang C, Fu J, et al. A partition filter network for joint entity and relation extraction[J]. arXiv preprint arXiv:2108.12202, 2021.
 
 ## RE(Relationship Extraction)
