@@ -1,2 +1,3 @@
 1. [MLEE] 用于biomedical event extraction的数据集 [link](http://nactem.ac.uk/MLEE/)
 2. [THYME Corpus] 用于temporal relation extracion时间关系抽取 [link](https://github.com/stylerw/thymedata)
+3. [PubMed] 主要用于检索MEDLINE数据库中，生命科学和生物医学引用文献及索引的免费搜索引擎 [link](https://pubmed.ncbi.nlm.nih.gov/download/)
