@@ -12,7 +12,8 @@
 
 
 ## EE(Event Extraction)
-
+[IEEE access]Frisoni G, Moro G, Carbonaro A. A survey on event extraction for natural language understanding: Riding the biomedical literature wave[J]. IEEE Access, 2021, 9: 160721-160757. 
+> this is a exhaustive review about Biomedical Event Extraction, but its' structure confused me.
 
 ## EL(Entity Linking)
 [AAAI2021] Chen L, Varoquaux G, Suchanek F M. A lightweight neural model for biomedical entity linking[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2021, 35(14): 12657-12665.
