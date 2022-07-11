@@ -1,4 +1,4 @@
-En | [Zh]()
+En | [Zh](https://github.com/P-KB-O/good-first-repo/blob/main/README-format.zh.md)
 
 ## stand-off format
 
