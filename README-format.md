@@ -23,3 +23,10 @@ These files contain annotation for given entities found in the text. All entity 
 ### Target annotation files (.a2)
 
 These files contain annotation for events, relations, and other related information that is the target for extraction in each task.
+
+include 
+1. Event annotations
+2. Relation annotations
+3. Additional entity annotations
+4. Entity equivalence annotations
+
