@@ -2,6 +2,8 @@
 
 ## stand-off format
 
+[BioNLP Shared Task 2011](https://2011.bionlp-st.org/bionlp-shared-task-2011/file-formats) | [BioNLP-ST 2013](https://2013.bionlp-st.org/file-formats)
+
 所有标注IDs包含一个表示标注类型的大写字母以及一个数字，标志类型如下所示：
 
 T: text-bound annotation(实体/事件trigger)
