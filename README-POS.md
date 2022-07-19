@@ -25,8 +25,8 @@ https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
 | PRP | Personal pronoun | 人称代词 | I, he, it |
 | PRP$ | Possessive pronoun | 物主代词，所有格代名词 | my, his |
 | RB | Adverb | 副词 | however, usually, naturally, here, good |
-| RBR | Adverb, comparative | better |
-| RBS | Adverb, superlative | best |
+| RBR | Adverb, comparative | | better |
+| RBS | Adverb, superlative | | best |
 | RP | Particle | 小品词 | give up |
 | SYM | Symbol | | / \[ \= \* |
 | TO | to | | togo |
