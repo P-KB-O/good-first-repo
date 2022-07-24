@@ -3,7 +3,7 @@
 [EMNLP2021] Yan C, Zhang Y, Liu K, et al. Biomedical Concept Normalization by Leveraging Hypernyms[C]//Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing. 2021: 3512-3517.
 
 ## SRL(Semantic Role Labeling)
-[EMNLP2017]Marcheggiani D, Titov I. Encoding sentences with graph convolutional networks for semantic role labeling[J]. arXiv preprint arXiv:1703.04826, 2017. [issue link]()
+[EMNLP2017]Marcheggiani D, Titov I. Encoding sentences with graph convolutional networks for semantic role labeling[J]. arXiv preprint arXiv:1703.04826, 2017. [issue link](https://github.com/P-KB-O/good-first-repo/issues/1)
 
  
 ## NER(Named Entity Recognition)
