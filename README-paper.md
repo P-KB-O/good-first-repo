@@ -23,7 +23,7 @@
 
 [Infomation Science] Zhao W, Zhang J, Yang J, et al. A novel joint biomedical event extraction framework via two-level modeling of documents[J]. Information Sciences, 2021, 550: 27-40. [link](https://github.com/P-KB-O/good-first-repo/issues/2)
 
-[EMNLP 2020] Huang K H, Yang M, Peng N. Biomedical event extraction with hierarchical knowledge graphs[J]. arXiv preprint arXiv:2009.09335, 2020. [link]()
+[EMNLP 2020] Huang K H, Yang M, Peng N. Biomedical event extraction with hierarchical knowledge graphs[J]. arXiv preprint arXiv:2009.09335, 2020. [link](https://github.com/P-KB-O/good-first-repo/issues/3)
 
 ## EL(Entity Linking)
 [AAAI2021] Chen L, Varoquaux G, Suchanek F M. A lightweight neural model for biomedical entity linking[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2021, 35(14): 12657-12665.
