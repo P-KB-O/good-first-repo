@@ -3,7 +3,7 @@
 [EMNLP2021] Yan C, Zhang Y, Liu K, et al. Biomedical Concept Normalization by Leveraging Hypernyms[C]//Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing. 2021: 3512-3517.
 
 ## SRL(Semantic Role Labeling)
-[EMNLP2017]Marcheggiani D, Titov I. Encoding sentences with graph convolutional networks for semantic role labeling[J]. arXiv preprint arXiv:1703.04826, 2017. [issue link](https://github.com/P-KB-O/good-first-repo/issues/1)
+[EMNLP2017]Marcheggiani D, Titov I. Encoding sentences with graph convolutional networks for semantic role labeling[J]. arXiv preprint arXiv:1703.04826, 2017. [issue link](https://github.com/P-KB-O/good-first-repo/issues/1) [code](https://github.com/diegma/neural-dep-srl)
 
  
 ## NER(Named Entity Recognition)
@@ -21,9 +21,9 @@
 
 [BIBM2020] Li L, Huang M, Zhang B. Hierarchical distillation network for biomedical event extraction[C]//2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2020: 287-292. 
 
-[Infomation Science] Zhao W, Zhang J, Yang J, et al. A novel joint biomedical event extraction framework via two-level modeling of documents[J]. Information Sciences, 2021, 550: 27-40. [link](https://github.com/P-KB-O/good-first-repo/issues/2)
+[Infomation Science] Zhao W, Zhang J, Yang J, et al. A novel joint biomedical event extraction framework via two-level modeling of documents[J]. Information Sciences, 2021, 550: 27-40. [issue link](https://github.com/P-KB-O/good-first-repo/issues/2)
 
-[EMNLP 2020] Huang K H, Yang M, Peng N. Biomedical event extraction with hierarchical knowledge graphs[J]. arXiv preprint arXiv:2009.09335, 2020. [link](https://github.com/P-KB-O/good-first-repo/issues/3) [code](https://github.com/PlusLabNLP/GEANet-BioMed-Event-Extraction)
+[EMNLP 2020] Huang K H, Yang M, Peng N. Biomedical event extraction with hierarchical knowledge graphs[J]. arXiv preprint arXiv:2009.09335, 2020. [issue link](https://github.com/P-KB-O/good-first-repo/issues/3) [code](https://github.com/PlusLabNLP/GEANet-BioMed-Event-Extraction)
 
 ## EL(Entity Linking)
 [AAAI2021] Chen L, Varoquaux G, Suchanek F M. A lightweight neural model for biomedical entity linking[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2021, 35(14): 12657-12665.
