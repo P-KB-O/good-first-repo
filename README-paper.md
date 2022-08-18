@@ -27,6 +27,8 @@
 
 ## ER(Event Represetntation)
 
+Ünal E, Ji Y, Papafragou A. From event representation to linguistic meaning[J]. Topics in Cognitive Science, 2021, 13(1): 224-242. [issue link](https://github.com/P-KB-O/good-first-repo/issues/4)
+
 ## ERE(Event Relation Extraction)
 
 ## EL(Entity Linking)
