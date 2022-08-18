@@ -25,6 +25,10 @@
 
 [EMNLP 2020] Huang K H, Yang M, Peng N. Biomedical event extraction with hierarchical knowledge graphs[J]. arXiv preprint arXiv:2009.09335, 2020. [issue link](https://github.com/P-KB-O/good-first-repo/issues/3) [code](https://github.com/PlusLabNLP/GEANet-BioMed-Event-Extraction)
 
+## ER(Event Represetntation)
+
+## ERE(Event Relation Extraction)
+
 ## EL(Entity Linking)
 [AAAI2021] Chen L, Varoquaux G, Suchanek F M. A lightweight neural model for biomedical entity linking[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2021, 35(14): 12657-12665.
 
