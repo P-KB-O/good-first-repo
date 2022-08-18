@@ -2,7 +2,7 @@ here is a repo about some Knowledg-based material.
 
 include
 
-1. papers
+1. [papers](https://github.com/P-KB-O/good-first-repo/blob/main/README-paper.md)
 2. datasets
 
 basic term & abbr
