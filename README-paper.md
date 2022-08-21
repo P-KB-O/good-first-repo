@@ -25,7 +25,9 @@
 
 [EMNLP 2020] Huang K H, Yang M, Peng N. Biomedical event extraction with hierarchical knowledge graphs[J]. arXiv preprint arXiv:2009.09335, 2020. [issue link](https://github.com/P-KB-O/good-first-repo/issues/3) [code](https://github.com/PlusLabNLP/GEANet-BioMed-Event-Extraction)
 
-## ER(Event Represetntation)
+## ER(Event Represetntations)
+
+> cant find a review about event representations
 
 Ünal E, Ji Y, Papafragou A. From event representation to linguistic meaning[J]. Topics in Cognitive Science, 2021, 13(1): 224-242. [issue link](https://github.com/P-KB-O/good-first-repo/issues/4)
 
