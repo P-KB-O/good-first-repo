@@ -28,6 +28,9 @@
 ## ER(Event Represetntations)
 
 > cant find a review about event representations
+> only find one paper published at 2020
+
+廖阔, 丁效, 秦兵, 等. 事件表示学习综述[J]. 智能计算机与应用, 2020.
 
 Ünal E, Ji Y, Papafragou A. From event representation to linguistic meaning[J]. Topics in Cognitive Science, 2021, 13(1): 224-242. [issue link](https://github.com/P-KB-O/good-first-repo/issues/4)
 
