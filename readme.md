@@ -4,6 +4,7 @@ include
 
 1. [papers](https://github.com/P-KB-O/good-first-repo/blob/main/README-paper.md)
 2. [datasets](https://github.com/P-KB-O/good-first-repo/blob/main/README-dataset.md)
+3. [concepts](https://github.com/P-KB-O/good-first-repo/blob/main/README-concept.md)
 
 basic term & abbr
 
