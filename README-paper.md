@@ -23,7 +23,7 @@
 
 [Infomation Science] Zhao W, Zhang J, Yang J, et al. A novel joint biomedical event extraction framework via two-level modeling of documents[J]. Information Sciences, 2021, 550: 27-40. [issue link](https://github.com/P-KB-O/good-first-repo/issues/2)
 
-[EMNLP 2020] Huang K H, Yang M, Peng N. Biomedical event extraction with hierarchical knowledge graphs[J]. arXiv preprint arXiv:2009.09335, 2020. [issue link](https://github.com/P-KB-O/good-first-repo/issues/3) [code](https://github.com/PlusLabNLP/GEANet-BioMed-Event-Extraction)
+[EMNLP 2020] Huang K H, Yang M, Peng N. Biomedical event extraction with hierarchical knowledge graphs[J]. arXiv preprint arXiv:2009.09335, 2020. [issue link](https://github.com/P-KB-O/good-first-repo/issues/3) | [source code](https://github.com/PlusLabNLP/GEANet-BioMed-Event-Extraction)
 
 ## ER(Event Represetntations)
 
@@ -35,7 +35,7 @@
 
 Ünal E, Ji Y, Papafragou A. From event representation to linguistic meaning[J]. Topics in Cognitive Science, 2021, 13(1): 224-242. [issue link](https://github.com/P-KB-O/good-first-repo/issues/4)
 
-[aaai2016] Granroth-Wilding M, Clark S. What happens next? event prediction using a compositional neural network model[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2016, 30(1). [code](https://mark.granroth-wilding.co.uk/papers/what_happens_next/)
+[aaai2016] Granroth-Wilding M, Clark S. What happens next? event prediction using a compositional neural network model[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2016, 30(1). [source code](https://mark.granroth-wilding.co.uk/papers/what_happens_next/)
 
 ## ERE(Event Relation Extraction)
 
