@@ -35,6 +35,8 @@
 
 Ünal E, Ji Y, Papafragou A. From event representation to linguistic meaning[J]. Topics in Cognitive Science, 2021, 13(1): 224-242. [issue link](https://github.com/P-KB-O/good-first-repo/issues/4)
 
+[aaai2016] Granroth-Wilding M, Clark S. What happens next? event prediction using a compositional neural network model[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2016, 30(1). [code](https://mark.granroth-wilding.co.uk/papers/what_happens_next/)
+
 ## ERE(Event Relation Extraction)
 
 ## EL(Entity Linking)
